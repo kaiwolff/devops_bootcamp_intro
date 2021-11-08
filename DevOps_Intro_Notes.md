@@ -1,0 +1,3 @@
+# Running Notes - DevOps Intro
+
+Aim of DevOps is to bridge the gap that used to exist between Development and Operations Team. Further, through smaller releases and continuous deployment, the effect of bugs is lessened as they are not having to be fixed at the end of a large, monolithic software release but rather can be traced directly back to a smaller addition (which can, if necessary, be rolled back with decreased loss). By combining teams, there is also a decrease in the  dependency oin a separate team. Improtant to remember that DevOps is about a culture, not a singular job role.
